@@ -236,7 +236,7 @@ input, select, textarea {
 		text-align: right;
 	}
       .download-btn {
-    		background-color: LightBlue;
+    		background-color: DodgerBlue;
   		color: white;
   	  	padding: 1rem 2rem;
     		font-size: 2rem;
@@ -245,7 +245,7 @@ input, select, textarea {
                     }
 
     .download-btn:hover {
-               background-color: Green;
+               background-color: RoyalBlue;
                  }
 
 /* Row */
